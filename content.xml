@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605041340275U9TG0</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605041340274BNWEE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Generación del 27</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>4º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Adrián Fernández Canorea</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje sobre la Generación del 27 orientada a 4ºESO.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777893393362</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Generación del 27. Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Generación del 27. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Generación del 27. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+      <odeBlockId>block-1777552120871-scoujgwne</odeBlockId>
+      <blockName>Contexto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+          <odeBlockId>block-1777552120871-scoujgwne</odeBlockId>
+          <odeIdeviceId>idevice-1777552120864-q0r45oc94</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje (SdA) se dirige a 4º ESO en la asignatura de Lengua Castellana y Literatura. </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777552120864-q0r45oc94","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje (SdA) se dirige a 4º ESO en la asignatura de Lengua Castellana y Literatura. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+      <odeBlockId>block-1777552404623-f58ugp2rz</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+          <odeBlockId>block-1777552404623-f58ugp2rz</odeBlockId>
+          <odeIdeviceId>idevice-1777552404618-pe9eq6co7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La creación de la infografía y el videojuego se desarrollará en grupos de 4 o 5 estudiantes.</p>
+<p>La explicación al alumnado de 2ºESO se realizará en parejas o grupos de 3.</p>
+<p>Se llevará a cabo en el aula de informática o en el aula mediante los portátiles disponibles en el centro. La explicación se llevará a cabo en el aula de 2ºESO.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777552404618-pe9eq6co7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La creación de la infografía y el videojuego se desarrollará en grupos de 4 o 5 estudiantes.</p>\n<p>La explicación al alumnado de 2ºESO se realizará en parejas o grupos de 3.</p>\n<p>Se llevará a cabo en el aula de informática o en el aula mediante los portátiles disponibles en el centro. La explicación se llevará a cabo en el aula de 2ºESO.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+      <odeBlockId>block-1777552432597-eynxh9m1m</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+          <odeBlockId>block-1777552432597-eynxh9m1m</odeBlockId>
+          <odeIdeviceId>idevice-1777552432595-2zrjynym5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se realizará en un total de 6 sesiones de 55 minutos, distribuidas de la siguiente manera:</p>
+<ul>
+<li>3 sesiones para la infografía</li>
+<li>2 sesiones para el videojuego</li>
+<li>1 sesión en 2ºESO de exposición de sus trabajos</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777552432595-2zrjynym5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se realizará en un total de 6 sesiones de 55 minutos, distribuidas de la siguiente manera:</p>\n<ul>\n<li>3 sesiones para la infografía</li>\n<li>2 sesiones para el videojuego</li>\n<li>1 sesión en 2ºESO de exposición de sus trabajos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+      <odeBlockId>block-1777552441844-7w52vp8ft</odeBlockId>
+      <blockName>Productos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+          <odeBlockId>block-1777552441844-7w52vp8ft</odeBlockId>
+          <odeIdeviceId>idevice-1777552441842-q15z1o1co</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cada grupo realizará dos productos finales.</p>
+<ol>
+<li><strong>La infografía:</strong> una infografía sobre la Generación del 27 y un autor o autora a su elección. Debe realizarse en Canva y orientada a su posterior explicación a alumnado de 2ºESO. Deben incluir información sobre la Generación del 27, sus características y elegir un autor o autora para incluir una breve biografía, sus obras más relevantes y un video de YouTube en el que se lea una de sus obras.</li>
+<li><strong>El videojuego:</strong> un videojuego en Wordwall basado en su infografía para presentar al alumnado de 2ºESO y comprobar su comprensión de la explicación proporcionada.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777552441842-q15z1o1co","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cada grupo realizará dos productos finales.</p>\n<ol>\n<li><strong>La infografía:</strong> una infografía sobre la Generación del 27 y un autor o autora a su elección. Debe realizarse en Canva y orientada a su posterior explicación a alumnado de 2ºESO. Deben incluir información sobre la Generación del 27, sus características y elegir un autor o autora para incluir una breve biografía, sus obras más relevantes y un video de YouTube en el que se lea una de sus obras.</li>\n<li><strong>El videojuego:</strong> un videojuego en Wordwall basado en su infografía para presentar al alumnado de 2ºESO y comprobar su comprensión de la explicación proporcionada.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+      <odeBlockId>block-1777552457267-3dmrwa2nd</odeBlockId>
+      <blockName>Herramientas tecnológicas</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q93-rc7ri6tl8</odePageId>
+          <odeBlockId>block-1777552457267-3dmrwa2nd</odeBlockId>
+          <odeIdeviceId>idevice-1777552457266-t6ji5nc0c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las herramientas tecnológicas a utilizar son ordenadores y/o portátiles del centro, así como este REA, TEAMS, YouTube, Google, Canva y Wordwall.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777552457266-t6ji5nc0c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las herramientas tecnológicas a utilizar son ordenadores y/o portátiles del centro, así como este REA, TEAMS, YouTube, Google, Canva y Wordwall.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor28q98-yvzi8pszs</odePageId>
+  <odeParentPageId>page-mor28q93-rc7ri6tl8</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor28q98-yvzi8pszs</odePageId>
+      <odeBlockId>block-1777708578750-5u5chwvwj</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q98-yvzi8pszs</odePageId>
+          <odeBlockId>block-1777708578750-5u5chwvwj</odeBlockId>
+          <odeIdeviceId>idevice-1777708578746-4p8z7qerb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mediante esta situación de aprendizaje en la asignatura de Lengua Castellana y Literatura se acerca al alumnado a uno de los movimientos literarios más relevantes del siglo XX en España: la Generación del 27. Les permitirá comprender sus características y autores más destacados, así como entender la evolución de la literatura y el valor del patrimonio cultural.</p>
+<p>El impacto esperado en el alumnado es el siguiente:</p>
+<ul>
+<li>Conocimiento de las características y principales autores de la Generación del 27.</li>
+<li>Desarrollo del pensamiento crítico a través del análisis de textos.<br /></li>
+<li>Mejora de la competencia comunicativa.<br /></li>
+<li>Uso responsable y creativo de herramientas digitales.<br /></li>
+<li>Aumento del interés por la literatura mediante metodologías activas y gamificadas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777708578746-4p8z7qerb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mediante esta situación de aprendizaje en la asignatura de Lengua Castellana y Literatura se acerca al alumnado a uno de los movimientos literarios más relevantes del siglo XX en España: la Generación del 27. Les permitirá comprender sus características y autores más destacados, así como entender la evolución de la literatura y el valor del patrimonio cultural.</p>\n<p>El impacto esperado en el alumnado es el siguiente:</p>\n<ul>\n<li>Conocimiento de las características y principales autores de la Generación del 27.</li>\n<li>Desarrollo del pensamiento crítico a través del análisis de textos.<br /></li>\n<li>Mejora de la competencia comunicativa.<br /></li>\n<li>Uso responsable y creativo de herramientas digitales.<br /></li>\n<li>Aumento del interés por la literatura mediante metodologías activas y gamificadas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q98-yvzi8pszs</odePageId>
+      <odeBlockId>block-1777708605631-5hdbbetbd</odeBlockId>
+      <blockName>ODS</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q98-yvzi8pszs</odePageId>
+          <odeBlockId>block-1777708605631-5hdbbetbd</odeBlockId>
+          <odeIdeviceId>idevice-1777708605627-emnfn9i10</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>De los 17 Objetivos de Desarrollo Sostenible (ODS), esta SdA se vincula con los siguientes:</p>
+<ul>
+<li>ODS 4 (Educación de calidad): aprendizaje inclusivo y equitativo.<br /></li>
+<li>ODS 5 (Igualdad de género): visibilización de las autoras de dicha Generación.<br /></li>
+<li>ODS 16 (Paz, justicia e instituciones sólidas): reflexión sobre el contexto histórico previo a la Guerra Civil.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777708605627-emnfn9i10","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De los 17 Objetivos de Desarrollo Sostenible (ODS), esta SdA se vincula con los siguientes:</p>\n<ul>\n<li>ODS 4 (Educación de calidad): aprendizaje inclusivo y equitativo.<br /></li>\n<li>ODS 5 (Igualdad de género): visibilización de las autoras de dicha Generación.<br /></li>\n<li>ODS 16 (Paz, justicia e instituciones sólidas): reflexión sobre el contexto histórico previo a la Guerra Civil.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q98-yvzi8pszs</odePageId>
+      <odeBlockId>block-1777708617124-a5yarnlcu</odeBlockId>
+      <blockName>Retos del Siglo XXI</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q98-yvzi8pszs</odePageId>
+          <odeBlockId>block-1777708617124-a5yarnlcu</odeBlockId>
+          <odeIdeviceId>idevice-1777708617122-3qm6w18oj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Entre los retos del siglo XXI, esta SdA se vincula con los siguientes:</p>
+<ul>
+<li>Alfabetización mediática y digital.<br /></li>
+<li>Pensamiento crítico.<br /></li>
+<li>Creatividad e innovación.<br /></li>
+<li>Conciencia cultural.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777708617122-3qm6w18oj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Entre los retos del siglo XXI, esta SdA se vincula con los siguientes:</p>\n<ul>\n<li>Alfabetización mediática y digital.<br /></li>\n<li>Pensamiento crítico.<br /></li>\n<li>Creatividad e innovación.<br /></li>\n<li>Conciencia cultural.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor28q99-rtygi1i00</odePageId>
+  <odeParentPageId>page-mor28q93-rc7ri6tl8</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor28q99-rtygi1i00</odePageId>
+      <odeBlockId>block-1777887592953-7jsdcz41j</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q99-rtygi1i00</odePageId>
+          <odeBlockId>block-1777887592953-7jsdcz41j</odeBlockId>
+          <odeIdeviceId>idevice-1777887592951-307dqsiaz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de las siguientes Competencias clave:</p>
+<ul>
+<li><strong>CCL (Competencia en Comunicación Lingüística). </strong>Comprender, interpretar y producir textos orales, escritos y multimodales en distintos contextos. Se contribuye a los descriptores operativos CCL1, CCL2, CCL3 y CCL5.<br /></li>
+<li><strong>CD (Competencia Digital)</strong>. Uso de herramientas digitales para la creación de contenidos y resolución de actividades interactivas. Respeto a la propiedad intelectual en el uso de fuentes digitales. Se contribuye a los descriptores operativos CD1, CD2, CD3, CD4 y CD5.<br /></li>
+<li><strong>CPSAA (Competencia Personal, Social y Aprender a Aprender)</strong>. Gestión del tiempo y la información, colaboración con otros estudiantes. Se contribuye al descriptor operativo CPSAA3.<br /></li>
+<li><strong>CC (Competencia Ciudadana)</strong>. Ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica. Se contribuye al descriptor operativo CC1.</li>
+<li><strong>CE (Competencia Emprendedora).</strong> Planificación y desarrollo de productos creativos en grupo. Se contribuye a los descriptores operativos CE1 y CE3.</li>
+<li><strong>CCEC (Competencia en Conciencia y Expresión Culturales)</strong>. Interpretación del patrimonio literario del siglo XX. Valoración de la literatura como forma de expresión cultural. Se contribuye a los descriptores operativos CCEC1, CCEC2 y CCEC4.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777887592951-307dqsiaz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de las siguientes Competencias clave:</p>\n<ul>\n<li><strong>CCL (Competencia en Comunicación Lingüística). </strong>Comprender, interpretar y producir textos orales, escritos y multimodales en distintos contextos. Se contribuye a los descriptores operativos CCL1, CCL2, CCL3 y CCL5.<br /></li>\n<li><strong>CD (Competencia Digital)</strong>. Uso de herramientas digitales para la creación de contenidos y resolución de actividades interactivas. Respeto a la propiedad intelectual en el uso de fuentes digitales. Se contribuye a los descriptores operativos CD1, CD2, CD3, CD4 y CD5.<br /></li>\n<li><strong>CPSAA (Competencia Personal, Social y Aprender a Aprender)</strong>. Gestión del tiempo y la información, colaboración con otros estudiantes. Se contribuye al descriptor operativo CPSAA3.<br /></li>\n<li><strong>CC (Competencia Ciudadana)</strong>. Ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica. Se contribuye al descriptor operativo CC1.</li>\n<li><strong>CE (Competencia Emprendedora).</strong> Planificación y desarrollo de productos creativos en grupo. Se contribuye a los descriptores operativos CE1 y CE3.</li>\n<li><strong>CCEC (Competencia en Conciencia y Expresión Culturales)</strong>. Interpretación del patrimonio literario del siglo XX. Valoración de la literatura como forma de expresión cultural. Se contribuye a los descriptores operativos CCEC1, CCEC2 y CCEC4.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q99-rtygi1i00</odePageId>
+      <odeBlockId>block-1777887615623-lrqq1ffg6</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q99-rtygi1i00</odePageId>
+          <odeBlockId>block-1777887615623-lrqq1ffg6</odeBlockId>
+          <odeIdeviceId>idevice-1777887615623-2cpezvn58</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de las siguientes Competencias específicas:</p>
+<p><em><strong>Competencia específica 3. </strong></em>Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</p>
+<p><em><strong>Competencia específica 4. </strong></em>Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención del emisor, reflexionando sobre el contenido y la forma y evaluando su calidad y fiabilidad, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento.</p>
+<p><em><strong>Competencia específica 5.</strong></em> Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.</p>
+<p><em><strong>Competencia específica 6.</strong></em> Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual. </p>
+<p><em><strong>Competencia específica 10. </strong></em>Poner las propias prácticas comunicativas al servicio de la convivencia democrática, la resolución dialogada de los conflictos y la igualdad de derechos de todas las personas, utilizando un lenguaje no discriminatorio y desterrando los abusos de poder a través de la palabra para favorecer un uso no solo eficaz sino también ético y democrático del lenguaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777887615623-2cpezvn58","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de las siguientes Competencias específicas:</p>\n<p><em><strong>Competencia específica 3. </strong></em>Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</p>\n<p><em><strong>Competencia específica 4. </strong></em>Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención del emisor, reflexionando sobre el contenido y la forma y evaluando su calidad y fiabilidad, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento.</p>\n<p><em><strong>Competencia específica 5.</strong></em> Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.</p>\n<p><em><strong>Competencia específica 6.</strong></em> Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual. </p>\n<p><em><strong>Competencia específica 10. </strong></em>Poner las propias prácticas comunicativas al servicio de la convivencia democrática, la resolución dialogada de los conflictos y la igualdad de derechos de todas las personas, utilizando un lenguaje no discriminatorio y desterrando los abusos de poder a través de la palabra para favorecer un uso no solo eficaz sino también ético y democrático del lenguaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q99-rtygi1i00</odePageId>
+      <odeBlockId>block-1777887625114-ffzxxqpfo</odeBlockId>
+      <blockName>Saberes Básicos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q99-rtygi1i00</odePageId>
+          <odeBlockId>block-1777887625114-ffzxxqpfo</odeBlockId>
+          <odeIdeviceId>idevice-1777887625114-al9f4iaw9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de los siguientes Saberes Básicos:</p>
+<p><strong>Bloque B. Comunicación. </strong>Estrategias de producción, comprensión y análisis crítico de textos orales, escritos y multimodales de diferentes ámbitos con atención conjunta a los siguientes aspectos:<br /></p>
+<p>Contexto<br /></p>
+<ul>
+<li>Componentes del hecho comunicativo: grado de formalidad de la situación y carácter público o privado; distancia social entre quienes intervienen en un acto de habla; propósitos comunicativos e interpretación de intenciones; canal de comunicación y elementos no verbales de la comunicación.</li>
+</ul>
+<p>Géneros discursivos<br /></p>
+<ul>
+<li>Secuencias textuales básicas, con especial atención a las expositivas y argumentativas.<br /></li>
+<li>Propiedades textuales: coherencia, cohesión y adecuación. </li>
+<li>Géneros discursivos propios del ámbito educativo. </li>
+</ul>
+<p>Procesos<br /></p>
+<ul>
+<li>Interacción oral y escrita de carácter informal y formal. Cooperación conversacional y cortesía lingüística. Escucha activa, asertividad y resolución dialogada de los conflictos.</li>
+<li>Producción oral formal. Planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales. Rasgos discursivos y lingüísticos de la oralidad formal. La deliberación oral argumentada.</li>
+<li>Producción escrita. Planificación, redacción, revisión y edición en diferentes soportes. Corrección gramatical y ortográfica. Propiedad léxica. Usos de la escritura para la organización del pensamiento: toma de notas, esquemas, mapas conceptuales, definiciones, resúmenes, etc. </li>
+<li>Alfabetización informacional: Búsqueda y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de manera creativa y respetuosa con la propiedad intelectual. Utilización de plataformas virtuales para la realización de proyectos escolares.</li>
+</ul>
+<p>Reconocimiento y uso discursivo de los elementos lingüísticos <br /></p>
+<ul>
+<li>Uso coherente de las formas verbales en los textos. Correlación temporal en la coordinación y subordinación de oraciones, y en el discurso relatado.</li>
+<li>Corrección lingüística y revisión ortográfica y gramatical de los textos. Uso de diccionarios, manuales de consulta y de correctores ortográficos en soporte analógico o digital.</li>
+<li>Los signos de puntuación como mecanismo organizador del texto escrito. Su relación con el significado. </li>
+</ul>
+<p><strong> Bloque C. Educación literaria </strong></p>
+<p>Lectura guiada<br /></p>
+<ul>
+<li>Lectura de obras relevantes del patrimonio literario nacional y universal (del siglo XIX a la literatura actual) inscritas en itinerarios temáticos o de género, que incluyan la presencia de autoras y autores. </li>
+<li>Estrategias de utilización de información sociohistórica, cultural y artística básica para construir la interpretación de las obras literarias (del siglo XIX a la literatura actual).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777887625114-al9f4iaw9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de los siguientes Saberes Básicos:</p>\n<p><strong>Bloque B. Comunicación. </strong>Estrategias de producción, comprensión y análisis crítico de textos orales, escritos y multimodales de diferentes ámbitos con atención conjunta a los siguientes aspectos:<br /></p>\n<p>Contexto<br /></p>\n<ul>\n<li>Componentes del hecho comunicativo: grado de formalidad de la situación y carácter público o privado; distancia social entre quienes intervienen en un acto de habla; propósitos comunicativos e interpretación de intenciones; canal de comunicación y elementos no verbales de la comunicación.</li>\n</ul>\n<p>Géneros discursivos<br /></p>\n<ul>\n<li>Secuencias textuales básicas, con especial atención a las expositivas y argumentativas.<br /></li>\n<li>Propiedades textuales: coherencia, cohesión y adecuación. </li>\n<li>Géneros discursivos propios del ámbito educativo. </li>\n</ul>\n<p>Procesos<br /></p>\n<ul>\n<li>Interacción oral y escrita de carácter informal y formal. Cooperación conversacional y cortesía lingüística. Escucha activa, asertividad y resolución dialogada de los conflictos.</li>\n<li>Producción oral formal. Planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales. Rasgos discursivos y lingüísticos de la oralidad formal. La deliberación oral argumentada.</li>\n<li>Producción escrita. Planificación, redacción, revisión y edición en diferentes soportes. Corrección gramatical y ortográfica. Propiedad léxica. Usos de la escritura para la organización del pensamiento: toma de notas, esquemas, mapas conceptuales, definiciones, resúmenes, etc. </li>\n<li>Alfabetización informacional: Búsqueda y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de manera creativa y respetuosa con la propiedad intelectual. Utilización de plataformas virtuales para la realización de proyectos escolares.</li>\n</ul>\n<p>Reconocimiento y uso discursivo de los elementos lingüísticos <br /></p>\n<ul>\n<li>Uso coherente de las formas verbales en los textos. Correlación temporal en la coordinación y subordinación de oraciones, y en el discurso relatado.</li>\n<li>Corrección lingüística y revisión ortográfica y gramatical de los textos. Uso de diccionarios, manuales de consulta y de correctores ortográficos en soporte analógico o digital.</li>\n<li>Los signos de puntuación como mecanismo organizador del texto escrito. Su relación con el significado. </li>\n</ul>\n<p><strong> Bloque C. Educación literaria </strong></p>\n<p>Lectura guiada<br /></p>\n<ul>\n<li>Lectura de obras relevantes del patrimonio literario nacional y universal (del siglo XIX a la literatura actual) inscritas en itinerarios temáticos o de género, que incluyan la presencia de autoras y autores. </li>\n<li>Estrategias de utilización de información sociohistórica, cultural y artística básica para construir la interpretación de las obras literarias (del siglo XIX a la literatura actual).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor28q99-rtygi1i00</odePageId>
+      <odeBlockId>block-1777887635012-p2k3c112e</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q99-rtygi1i00</odePageId>
+          <odeBlockId>block-1777887635012-p2k3c112e</odeBlockId>
+          <odeIdeviceId>idevice-1777887635012-p7p2g23wv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de los siguientes Criterios de evaluación:</p>
+<p>3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.<br /></p>
+<p>3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística. <br /></p>
+<p>4.1. Comprender e interpretar el sentido global, la estructura, la información más relevante y la intención del emisor de textos escritos y multimodales de cierta complejidad, que respondan a diferentes propósitos de lectura, realizando las inferencias.</p>
+<p>4.2. Valorar críticamente el contenido y la forma de textos de cierta complejidad evaluando su calidad y fiabilidad, así como la eficacia de los procedimientos lingüísticos empleados. </p>
+<p>5.1. Planificar la redacción de escritos y multimodales de cierta extensión atendiendo a la situación comunicativa, a la persona destinataria, al propósito y al canal; redactar borradores y revisarlos con ayuda del diálogo entre iguales e instrumentos de consulta; y presentar un texto final coherente, cohesionado y con el registro adecuado.</p>
+<p>5.2. Incorporar procedimientos para enriquecer los textos atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical. </p>
+<p>6.1. Localizar, seleccionar y contrastar de manera progresivamente autónoma información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa adoptando un punto de vista crítico respetando los principios de propiedad intelectual.</p>
+<p>6.2. Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre diferentes temas de interés académico, personal o social a partir de la información seleccionada.<br /></p>
+<p>6.3. Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación a la búsqueda y la comunicación de la información. </p>
+<p>10.1. Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales de la comunicación.<br /></p>
+<p>10.2. Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos, tanto en el ámbito personal como educativo y social. <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777887635012-p7p2g23wv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De acuerdo con el Decreto 59/2022, esta SdA contribuye al desarrollo de los siguientes Criterios de evaluación:</p>\n<p>3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.<br /></p>\n<p>3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística. <br /></p>\n<p>4.1. Comprender e interpretar el sentido global, la estructura, la información más relevante y la intención del emisor de textos escritos y multimodales de cierta complejidad, que respondan a diferentes propósitos de lectura, realizando las inferencias.</p>\n<p>4.2. Valorar críticamente el contenido y la forma de textos de cierta complejidad evaluando su calidad y fiabilidad, así como la eficacia de los procedimientos lingüísticos empleados. </p>\n<p>5.1. Planificar la redacción de escritos y multimodales de cierta extensión atendiendo a la situación comunicativa, a la persona destinataria, al propósito y al canal; redactar borradores y revisarlos con ayuda del diálogo entre iguales e instrumentos de consulta; y presentar un texto final coherente, cohesionado y con el registro adecuado.</p>\n<p>5.2. Incorporar procedimientos para enriquecer los textos atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical. </p>\n<p>6.1. Localizar, seleccionar y contrastar de manera progresivamente autónoma información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa adoptando un punto de vista crítico respetando los principios de propiedad intelectual.</p>\n<p>6.2. Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre diferentes temas de interés académico, personal o social a partir de la información seleccionada.<br /></p>\n<p>6.3. Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación a la búsqueda y la comunicación de la información. </p>\n<p>10.1. Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales de la comunicación.<br /></p>\n<p>10.2. Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos, tanto en el ámbito personal como educativo y social. <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor28q9b-lrw4lh0cb</odePageId>
+  <odeParentPageId>page-mor28q93-rc7ri6tl8</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor28q9b-lrw4lh0cb</odePageId>
+      <odeBlockId>block-1777709115733-4zxhi8hau</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q9b-lrw4lh0cb</odePageId>
+          <odeBlockId>block-1777709115733-4zxhi8hau</odeBlockId>
+          <odeIdeviceId>idevice-1777709115729-a7rq7y8rf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA se utilizarán las siguientes metodologías activas:</p>
+<p><strong>Aprendizaje Basado en Proyectos (ABP)</strong></p>
+<p>El alumnado desarrollará un proyecto para explicar de manera clara y sencilla a alumnado de menor nivel la Generación del 27. Realizarán una infografía y un videojuego, integrando investigación, análisis y creatividad en un mismo proyecto.</p>
+<p><strong>Gamificación</strong></p>
+<p>Uso de Wordwall como videojuego educativo, además de otros juegos disponibles en el REA.</p>
+<p><strong>Aprendizaje cooperativo</strong></p>
+<p>El alumnado trabaja en grupos para diseñar la infografía y el videojuego<em> </em>sobre la Generación del 27, así como en parejas para explicar al alumnado de 2ºESO su trabajo.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777709115729-a7rq7y8rf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA se utilizarán las siguientes metodologías activas:</p>\n<p><strong>Aprendizaje Basado en Proyectos (ABP)</strong></p>\n<p>El alumnado desarrollará un proyecto para explicar de manera clara y sencilla a alumnado de menor nivel la Generación del 27. Realizarán una infografía y un videojuego, integrando investigación, análisis y creatividad en un mismo proyecto.</p>\n<p><strong>Gamificación</strong></p>\n<p>Uso de Wordwall como videojuego educativo, además de otros juegos disponibles en el REA.</p>\n<p><strong>Aprendizaje cooperativo</strong></p>\n<p>El alumnado trabaja en grupos para diseñar la infografía y el videojuego<em> </em>sobre la Generación del 27, así como en parejas para explicar al alumnado de 2ºESO su trabajo.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor28q9b-xo5vf8g3r</odePageId>
+  <odeParentPageId>page-mor28q93-rc7ri6tl8</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor28q9b-xo5vf8g3r</odePageId>
+      <odeBlockId>block-1777710577715-lvx1a5vui</odeBlockId>
+      <blockName>Vinculación con los proyectos y programas del centro</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q9b-xo5vf8g3r</odePageId>
+          <odeBlockId>block-1777710577715-lvx1a5vui</odeBlockId>
+          <odeIdeviceId>idevice-1777710577714-7frhg67v5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se puede vincular con los siguientes planes y programas del centro educativo.</p>
+<p><strong>Plan Digital de Centro</strong>: uso de herramientas digitales como Canva o Wordwall.<br /><strong></strong></p>
+<p><strong>Plan de Coeducación</strong> inclusión de autoras del 27 (Las Sinsombrero).<br /></p>
+<p><strong>Programa de Atención a la Diversidad (PAD):</strong> adaptación de actividades (andamiaje, agrupamientos flexibles).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777710577714-7frhg67v5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se puede vincular con los siguientes planes y programas del centro educativo.</p>\n<p><strong>Plan Digital de Centro</strong>: uso de herramientas digitales como Canva o Wordwall.<br /><strong></strong></p>\n<p><strong>Plan de Coeducación</strong> inclusión de autoras del 27 (Las Sinsombrero).<br /></p>\n<p><strong>Programa de Atención a la Diversidad (PAD):</strong> adaptación de actividades (andamiaje, agrupamientos flexibles).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor28q9c-22z545cds</odePageId>
+  <odeParentPageId>page-mor28q93-rc7ri6tl8</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor28q9c-22z545cds</odePageId>
+      <odeBlockId>block-1777711371051-ef9qrko4j</odeBlockId>
+      <blockName>Exposición a 2ºESO</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q9c-22z545cds</odePageId>
+          <odeBlockId>block-1777711371051-ef9qrko4j</odeBlockId>
+          <odeIdeviceId>idevice-1777711371043-f49mgymis</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado de 4ºESO expondrá sus infografías y realizará actividades lúdicas con el alumnado de 2ºESO.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777711371043-f49mgymis","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado de 4ºESO expondrá sus infografías y realizará actividades lúdicas con el alumnado de 2ºESO.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor28q9d-zpkalcevj</odePageId>
+  <odeParentPageId>page-mor28q93-rc7ri6tl8</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor28q9d-zpkalcevj</odePageId>
+      <odeBlockId>block-1777711543801-86hx3wdh8</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor28q9d-zpkalcevj</odePageId>
+          <odeBlockId>block-1777711543801-86hx3wdh8</odeBlockId>
+          <odeIdeviceId>idevice-1777711543794-xywr7yyfv</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Generación del 27</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">AFC</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
